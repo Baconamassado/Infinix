@@ -4,36 +4,18 @@ Infinix is a powerful Roblox cheat that can search for and integrate an infinite
 
 ## 🚀 New Features & Updates
 
-### 📂 **Built-in Scripts**  
-Infinix now includes a new tab dedicated to built-in scripts such as:
-- **Fly**: Fly freely across the map with customizable speed.
-- **NoClip**: Move through walls and obstacles effortlessly.
+### Sorry, I'm too lazy to write this so the changes are in the change-logs
 
-### 🔧 **API Improvements**  
-We’ve enhanced the API to provide more flexibility and functionality. Now it's more optimized and faster than ever.
-
-### 🐛 **Bug Fixes**  
-Various bugs have been fixed in this version to improve stability and user experience.
-
-### 🔍 **Update Checker**  
-Infinix now includes an automatic update checker that ensures you always have the latest version of the script. No more manual updates – you’ll be notified when a new version is available.
-
-### **🔍 Improved Search**
-The script now indicates whether the found script requires a key or not.
-
-### 🧑‍💻 **Recommended Executors**  
-We’ve added a feature to check for recommended executors, ensuring compatibility and optimal performance of the script hub.
 
 ---
 
 ## 📜 Changelog
 
-### Version 0.3
-- **New Built-in Scripts**: Now you can use scripts like noclip and fly within the script.
-- **API Overhaul**: Improved functionality and easier integration.
-- **Bug Fixes**: Fixed several minor bugs to ensure smoother operation.
-- **Update Checker**: Added notify-update feature.
-- **Executor Compatibility Check**: Recommended executors check to ensure script runs properly.
+### Version 0.4
+- **More built-In stuff** Walkspeed, gravity, JumpPower and more added
+- **More Bug Fixes**: Fixed bugs.
+- **Fixed update checker** without bugs now
+- **Updated UNC Test** Fixed
 
 ---
 
