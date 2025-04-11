@@ -1,3 +1,7 @@
+# The project may go a while without updates
+
+
+
 # Infinix - Roblox Cheat
 
 Infinix is a powerful Roblox cheat that can search for and integrate an infinite number of scripts for any game, all using the unofficial ScriptBlox API. Whether you're looking to enhance your gameplay or disrupt others, Infinix has you covered with a wide variety of scripts. Get the script you want with Infinix — it all depends on your preferences.
