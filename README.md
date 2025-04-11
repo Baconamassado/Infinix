@@ -19,6 +19,21 @@ Infinix is a powerful Roblox cheat that can search for and integrate an infinite
 
 ---
 
+## Supported Executors
+
+- **Xeno** May have some issues
+- **Wave**
+- **Argon**
+- **Velocity**
+- **Swift**
+- **AWP**
+- **Nebula Mobile**
+- **Cryptic PC**
+- **Cryptic Mobile**
+- **Delta Mobile**
+
+---
+
 ## 💻 How to Use
 
 1. **Install a Roblox Executor**:  
