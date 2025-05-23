@@ -31,7 +31,6 @@ Infinix is a powerful Roblox cheat that can search for and integrate an infinite
 - **Velocity**
 - **Swift**
 - **AWP**
-- **Nebula Mobile**
 - **Cryptic PC**
 - **Cryptic Mobile**
 - **Delta Mobile**
