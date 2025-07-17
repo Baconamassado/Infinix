@@ -24,7 +24,7 @@ Deity/dp4pv/x64x70 | Certain Scripting and Testing ig
 
 ]]
 
-local Release = "Luna Modified - Infinix"
+local Release = "Luna Modified - Seraph"
 
 local Luna = { Folder = "Luna", Options = {}, ThemeGradient = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(0.50, Color3.fromRGB(139, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 0))} }
 
@@ -2279,11 +2279,11 @@ function Luna:CreateWindow(WindowSettings)
 
 	LoadingFrame.Frame.Frame.Title.Text = WindowSettings.LoadingTitle
 	LoadingFrame.Frame.Frame.Subtitle.Text = WindowSettings.LoadingSubtitle
-	LoadingFrame.Version.Text = LoadingFrame.Frame.Frame.Title.Text == "Infinix" and Release or "Infinix"
+	LoadingFrame.Version.Text = LoadingFrame.Frame.Frame.Title.Text == "Seraph" and Release or "Seraph"
 
 	Navigation.Player.icon.ImageLabel.Image = Players:GetUserThumbnailAsync(Players.LocalPlayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size48x48)
-	Navigation.Player.Namez.Text = "Infinix"
-	Navigation.Player.TextLabel.Text = "Infinix"
+	Navigation.Player.Namez.Text = "Seraph"
+	Navigation.Player.TextLabel.Text = "Seraph"
 
 	for i,v in pairs(Main.Controls:GetChildren()) do
 		v.Visible = false
