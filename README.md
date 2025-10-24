@@ -1,4 +1,4 @@
-# The project may go a while without updates
+# The project may go a while without updates - Descontinued.
 
 Luna-Modded credits: https://github.com/Nebula-Softworks/Luna-Interface-Suite/
 
